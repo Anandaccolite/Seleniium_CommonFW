@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Automation" default="all" basedir=".">
+	<!-- dirs for test output -->
+	<property name="testcases.dir" value="." />
+	<property name="testcases.dirbuild" value="${testcases.dir}/bin" />
+	<property name="test.output" value="${testcases.dir}/build/test-output" />
+	<property name="test.src.dir" value="${testcases.dir}/src" />
+	<property name="testsuite.dir" value="${testcases.dir}/TestSuite" />
+	
+
+	<taskdef resource="testngtasks" classpath="${testcases.dir}/lib/testng-6.8.5.jar"/>
+	
+	<taskdef resource="net/sf/antcontrib/antcontrib.properties">
+		<classpath>
+			<pathelement location="${testcases.dir}/lib/ant-contrib.jar" />
+		</classpath>
+	</taskdef>
+	
+	<path id="compile.cp">
+		<fileset dir="${testcases.dir}/lib/" includes="**/*.jar" />
+	</path>
+	<path id="properties">
+		<fileset dir="${testcases.dir}">
+			<include name="log4j.properties" />
+			<include name="./src/log4j.properties" />
+		</fileset>
+	</path>
+	
+	<path id="run.cp">
+		<path refid="compile.cp" />
+		<pathelement location="${testcases.dir}/bin" />
+		<path refid="properties" />
+	</path>
+	
+	<target name="all" />
+	
+	<target name="prepare">
+		<mkdir dir="${testcases.dirbuild}" />
+		<mkdir dir="${test.output}" />
+	</target>
+	
+	<target name="compile" depends="prepare">
+		<echo message="*************Compiling test cases***********************" />
+
+		<javac debug="true" fork="true" source="1.8" classpathref="compile.cp" srcdir="${testcases.dir}/src" destdir="${testcases.dir}/bin"/>
+   </target>
+	
+	
+	<target name="runTestSuitesParallel" depends="compile">
+		<echo message="*************Running the test cases***********************" />
+		<taskdef resource="testngtasks" classpath="${testcases.dir}/lib/testng-6.8.5.jar" />
+		<java fork="true" classpathref="run.cp" classname="org.testng.TestNG">
+			<arg value="-suitethreadpoolsize" />
+			<arg value="6" />
+			<arg value="-d" />
+			<arg value="${test.output}" />
+			<arg value="${testcases.dir}/TestSuites/TestSuite1.xml" />
+			<arg value="${testcases.dir}/TestSuites/TestSuite2.xml" />
+			<jvmarg value="-Xdebug" />
+			<sysproperty key="browser" value="${browser}" />
+		</java>
+	</target>
+	
+		
+	<target name="runTestSuite" depends="compile">
+				<echo message="*************Running the test cases***********************" />
+				<echo message="${testcases.dir}" />
+				<echo message="*************Setting the Browser Argument ${browser}***********************" />
+				<testng classpathref="run.cp"
+				        outputDir="${test.output}"
+				        haltOnfailure="true"
+					    suiteThreadPoolSize="2"
+					    parallel="tests">
+
+				<xmlfileset dir="${testcases.dir}/TestSuites/" includes="sample.xml"/>
+				</testng>
+				
+	</target>
+
+		
+
+	</project>

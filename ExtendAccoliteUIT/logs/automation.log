@@ -1,0 +1,493 @@
+2017-06-22 14:41:49 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:41:49 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:41:49 root [INFO] **********Test Case Execution Navigate to Google Search Pageis Starting****************
+2017-06-22 14:41:59 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:41:59 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page_firefox_Passed.png
+2017-06-22 14:41:59 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page_firefox_Passed.png
+2017-06-22 14:41:59 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page_firefox_Passed.png
+2017-06-22 14:42:00 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:42:00 root [INFO] **********Test Case Navigate to Google Search PageExecution is Completed****************
+2017-06-22 14:48:04 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:48:04 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:48:04 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 14:48:13 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:48:13 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_chrome_Passed.png
+2017-06-22 14:48:13 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_chrome_Passed.png
+2017-06-22 14:48:13 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_chrome_Passed.png
+2017-06-22 14:48:14 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:48:14 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 14:48:15 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:48:15 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:48:15 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 14:48:23 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:48:23 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 14:48:23 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 14:48:23 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 14:48:24 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:48:24 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 14:52:13 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:52:13 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:52:13 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 14:52:13 root [INFO] Launching the Brwoser with chrome
+2017-06-22 14:52:21 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:52:21 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_chrome_Passed.png
+2017-06-22 14:52:21 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_chrome_Passed.png
+2017-06-22 14:52:21 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_chrome_Passed.png
+2017-06-22 14:52:22 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:52:22 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 14:52:23 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:52:23 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:52:23 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 14:52:23 root [INFO] Launching the Brwoser with chrome
+2017-06-22 14:52:29 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:52:29 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 14:52:29 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 14:52:29 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 14:52:29 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:52:29 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 14:52:48 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:52:48 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:52:48 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 14:52:48 root [INFO] Launching the Brwoser with  Firefox driver as a default in case of Exception
+2017-06-22 14:52:48 root [INFO] Launching the Brwoser with firefox
+2017-06-22 14:52:57 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:52:57 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 14:52:57 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 14:52:57 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 14:52:58 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:52:58 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 14:52:58 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:52:58 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:52:58 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 14:52:58 root [INFO] Launching the Brwoser with  Firefox driver as a default in case of Exception
+2017-06-22 14:52:58 root [INFO] Launching the Brwoser with firefox
+2017-06-22 14:53:08 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:53:08 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_firefox_Passed.png
+2017-06-22 14:53:08 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_firefox_Passed.png
+2017-06-22 14:53:08 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_firefox_Passed.png
+2017-06-22 14:53:08 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:53:08 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 14:54:32 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:54:32 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:54:32 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 14:54:32 root [INFO] Launching the Brwoser with firefox
+2017-06-22 14:54:45 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:54:45 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 14:54:45 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 14:54:45 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 14:54:45 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:54:45 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 14:54:46 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:54:46 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:54:46 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 14:54:46 root [INFO] Launching the Brwoser with firefox
+2017-06-22 14:55:07 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:55:07 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_firefox_Passed.png
+2017-06-22 14:55:07 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_firefox_Passed.png
+2017-06-22 14:55:07 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_firefox_Passed.png
+2017-06-22 14:55:07 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:55:07 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 14:57:49 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:57:49 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:57:49 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 14:57:49 root [INFO] Launching the Brwoser with firefox
+2017-06-22 14:58:01 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:58:01 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 14:58:01 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 14:58:01 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 14:58:01 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:58:01 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 14:58:02 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 14:58:02 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 14:58:02 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 14:58:02 root [INFO] Launching the Brwoser with chrome
+2017-06-22 14:58:09 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 14:58:09 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 14:58:09 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 14:58:09 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 14:58:09 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 14:58:09 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 15:00:05 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:00:05 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:00:05 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 15:00:05 root [INFO] Launching the Brwoser with firefox
+2017-06-22 15:00:15 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:00:15 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:00:15 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:00:15 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:00:15 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 15:00:15 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 15:00:16 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:00:16 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:00:16 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 15:00:16 root [INFO] Launching the Brwoser with chrome
+2017-06-22 15:00:23 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:00:23 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:00:23 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:00:23 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:00:23 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 15:00:23 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 15:00:24 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:00:24 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:00:24 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:00:24 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:05:00 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:05:00 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:05:00 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 15:05:00 root [INFO] Launching the Brwoser with firefox
+2017-06-22 15:05:11 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:05:11 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:05:11 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:05:11 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:05:12 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 15:05:12 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 15:05:12 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:05:12 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:05:12 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 15:05:12 root [INFO] Launching the Brwoser with chrome
+2017-06-22 15:05:20 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:05:20 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:05:20 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:05:20 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:05:20 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 15:05:20 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 15:05:21 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:05:21 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:05:21 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:05:21 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:30:53 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:30:53 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:30:53 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 15:30:53 root [INFO] Launching the Brwoser with firefox
+2017-06-22 15:31:04 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:31:04 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:31:04 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:31:04 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:31:04 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 15:31:04 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 15:31:05 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:31:05 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:31:05 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 15:31:05 root [INFO] Launching the Brwoser with chrome
+2017-06-22 15:31:11 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:31:11 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:31:11 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:31:11 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:31:11 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 15:31:11 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 15:31:12 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:31:12 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:31:12 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:31:12 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:41:57 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:41:57 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:41:57 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 15:41:57 root [INFO] Launching the Brwoser with firefox
+2017-06-22 15:42:08 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:42:08 root [INFO] **************Started TestCase onTestFailure Method********
+
+2017-06-22 15:42:08 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 15:42:09 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:42:09 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:42:09 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 15:42:09 root [INFO] Launching the Brwoser with chrome
+2017-06-22 15:42:16 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:42:16 root [INFO] **************Started TestCase onTestFailure Method********
+
+2017-06-22 15:42:16 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 15:55:17 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:55:17 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:55:17 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 15:55:17 root [INFO] Launching the Brwoser with firefox
+2017-06-22 15:55:24 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 15:55:29 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 15:55:29 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:55:29 root [INFO] **************Started TestCase onTestFailure Method********
+
+2017-06-22 15:55:29 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 15:55:30 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:55:30 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:55:30 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 15:55:30 root [INFO] Launching the Brwoser with chrome
+2017-06-22 15:55:33 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 15:55:36 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 15:55:36 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:55:36 root [INFO] **************Started TestCase onTestFailure Method********
+
+2017-06-22 15:55:36 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 15:57:56 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:57:56 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:57:56 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 15:57:56 root [INFO] Launching the Brwoser with firefox
+2017-06-22 15:58:02 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 15:58:06 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 15:58:06 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:58:06 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:58:06 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:58:06 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 15:58:06 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 15:58:06 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 15:58:07 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:58:07 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:58:07 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 15:58:07 root [INFO] Launching the Brwoser with chrome
+2017-06-22 15:58:10 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 15:58:14 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 15:58:14 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:58:14 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:58:14 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:58:14 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 15:58:14 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 15:58:14 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 15:58:15 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:58:15 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:58:15 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:58:15 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 15:59:25 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:59:25 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:59:25 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 15:59:25 root [INFO] Launching the Brwoser with firefox
+2017-06-22 15:59:31 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 15:59:34 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 15:59:34 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:59:34 root [INFO] **************Started TestCase onTestFailure Method********
+
+2017-06-22 15:59:34 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 15:59:35 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 15:59:35 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 15:59:35 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 15:59:35 root [INFO] Launching the Brwoser with chrome
+2017-06-22 15:59:38 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 15:59:42 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 15:59:42 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 15:59:42 root [INFO] **************Started TestCase onTestFailure Method********
+
+2017-06-22 15:59:42 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 16:03:59 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 16:03:59 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 16:03:59 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 16:03:59 root [INFO] Launching the Brwoser with firefox
+2017-06-22 16:04:05 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 16:04:10 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 16:04:10 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 16:04:10 root [INFO] **************Started TestCase onTestFailure Method********
+
+2017-06-22 16:04:10 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 16:04:10 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 16:04:10 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 16:04:10 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 16:04:10 root [INFO] Launching the Brwoser with chrome
+2017-06-22 16:04:14 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 16:04:17 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 16:04:17 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 16:04:17 root [INFO] **************Started TestCase onTestFailure Method********
+
+2017-06-22 16:04:17 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 16:06:24 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 16:06:24 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 16:06:24 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 16:06:24 root [INFO] Launching the Brwoser with firefox
+2017-06-22 16:06:30 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 16:06:34 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 16:06:34 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 16:06:34 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 16:06:34 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 16:06:34 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 16:06:34 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 16:06:34 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 16:06:35 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 16:06:35 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 16:06:35 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 16:06:35 root [INFO] Launching the Brwoser with chrome
+2017-06-22 16:06:38 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 16:06:42 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 16:06:42 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 16:06:42 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 16:06:42 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 16:06:42 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 16:06:43 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 16:06:43 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 16:06:44 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:06:44 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:06:44 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:06:44 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:24:42 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 16:24:42 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 16:24:42 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 16:24:42 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 16:24:42 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 16:24:42 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 16:24:42 root [INFO] Launching the Brwoser with firefox
+2017-06-22 16:24:42 root [INFO] Launching the Brwoser with chrome
+2017-06-22 16:24:46 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 16:24:50 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 16:24:51 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 16:24:51 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 16:24:51 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 16:24:51 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 16:24:51 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 16:24:51 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 16:24:51 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 16:24:54 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 16:24:54 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 16:24:54 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 16:24:54 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 16:24:54 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 16:24:54 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 16:24:54 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 16:24:54 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:24:54 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:24:54 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:24:55 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:26:22 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 16:26:22 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 16:26:22 root [INFO] **************Started TestCase OnStart Method********
+
+2017-06-22 16:26:22 root [INFO] **************Done with TestCase OnStart Method********
+
+2017-06-22 16:26:22 root [INFO] **********Test Case Execution Navigate to Google Search Page-chromeis Starting****************
+2017-06-22 16:26:22 root [INFO] **********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************
+2017-06-22 16:26:22 root [INFO] Launching the Brwoser with chrome
+2017-06-22 16:26:22 root [INFO] Launching the Brwoser with firefox
+2017-06-22 16:26:27 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 16:26:31 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 16:26:31 root [INFO] Before navigating to: 'http://www.google.com'
+2017-06-22 16:26:34 root [INFO] Navigated to:'http://www.google.com'
+2017-06-22 16:32:31 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 16:32:31 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 16:32:31 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 16:32:31 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png
+2017-06-22 16:32:32 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 16:32:32 root [INFO] **********Test Case Navigate to Google Search Page-chromeExecution is Completed****************
+2017-06-22 16:32:34 root [INFO] **************Started TestCase onTestSuccess Method********
+
+2017-06-22 16:32:34 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 16:32:34 root [INFO] ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 16:32:34 root [INFO] ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png
+2017-06-22 16:32:34 root [INFO] **************Done with TestCase onTestSuccess Method********
+
+2017-06-22 16:32:34 root [INFO] **********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************
+2017-06-22 16:32:34 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:32:34 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:32:34 root [INFO] Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1
+2017-06-22 16:32:34 root [INFO] Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1

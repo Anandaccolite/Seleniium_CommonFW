@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Accolite-PC" name="Tests.SampleUITests" tests="1" failures="0" timestamp="22 Jun 2017 10:36:35 GMT" time="10.111" errors="0">
+  <testcase name="test1" time="9.14" classname="Tests.SampleUITests"/>
+</testsuite>

@@ -1,0 +1,3 @@
+#BaseURL=https://endpoint2-qa-dev.pacific-test.progress.com/cs-ui/service/subscribe?uiToken=129411855
+BaseURL=https://www.google.com
+AutomationTestReportEmail=false

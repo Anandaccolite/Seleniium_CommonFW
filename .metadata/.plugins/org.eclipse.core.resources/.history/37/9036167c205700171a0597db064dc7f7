@@ -1,0 +1,4 @@
+smtphost=pubsmtp.bedford.progress.com
+fromAddress=ssoma@progress.com
+toAddress=ssoma@progress.com
+subject=Cloud Service Test Automation Report

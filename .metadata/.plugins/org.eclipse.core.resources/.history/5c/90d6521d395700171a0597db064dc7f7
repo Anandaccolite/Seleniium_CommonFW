@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample-Tests" parallel="tests" thread-count="1" verbose="1">
+<listeners> 
+         <listener class-name="framework.listeners.TestCaseListener"/> 
+         <listener class-name="framework.listeners.TestMethodListener"/>
+    	 <listener class-name="framework.listeners.CustomReporter" />  
+ </listeners> 
+ 
+  
+ 
+ <test verbose="2" name="Navigate to Google Search Page-firefox" annotations="JDK" enabled="true" preserve-order="true"> 
+     <groups><run><include name="TCID1"/></run></groups>
+  <parameter name="browser" value="firefox"/>
+    <classes>
+    	
+    	<class name="Tests.SampleUITests"/>
+    </classes>
+ </test> 
+ 
+ <test verbose="2" name="Navigate to Google Search Page-chrome" annotations="JDK" enabled="true" preserve-order="true"> 
+     <groups><run><include name="TCID1"/></run></groups>
+   <parameter name="browser" value="chrome"/>
+    <classes>
+    	
+    	<class name="Tests.SampleUITests"/>
+    </classes>
+ </test> 
+ 
+</suite> 

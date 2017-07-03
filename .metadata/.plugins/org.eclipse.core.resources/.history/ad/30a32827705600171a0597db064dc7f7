@@ -1,0 +1,7 @@
+package framework.listeners;
+
+import org.testng.ITestListener;
+
+public class TestCaseListener implements ITestListener{
+
+}

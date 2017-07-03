@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[**************Started TestCase OnStart Method********
+]]>
+    </line>
+    <line>
+      <![CDATA[**************Done with TestCase OnStart Method********
+]]>
+    </line>
+    <line>
+      <![CDATA[**************Started TestCase OnStart Method********
+]]>
+    </line>
+    <line>
+      <![CDATA[**************Done with TestCase OnStart Method********
+]]>
+    </line>
+    <line>
+      <![CDATA[**********Test Case Execution Navigate to Google Search Page-chromeis Starting****************]]>
+    </line>
+    <line>
+      <![CDATA[**********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************]]>
+    </line>
+    <line>
+      <![CDATA[Launching the Brwoser with chrome]]>
+    </line>
+    <line>
+      <![CDATA[Launching the Brwoser with firefox]]>
+    </line>
+    <line>
+      <![CDATA[Before navigating to: 'http://www.google.com']]>
+    </line>
+    <line>
+      <![CDATA[Navigated to:'http://www.google.com']]>
+    </line>
+    <line>
+      <![CDATA[Before navigating to: 'http://www.google.com']]>
+    </line>
+    <line>
+      <![CDATA[Navigated to:'http://www.google.com']]>
+    </line>
+    <line>
+      <![CDATA[**************Started TestCase onTestSuccess Method********
+]]>
+    </line>
+    <line>
+      <![CDATA[ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png]]>
+    </line>
+    <line>
+      <![CDATA[ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png]]>
+    </line>
+    <line>
+      <![CDATA[ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png]]>
+    </line>
+    <line>
+      <![CDATA[**************Done with TestCase onTestSuccess Method********
+]]>
+    </line>
+    <line>
+      <![CDATA[**********Test Case Navigate to Google Search Page-chromeExecution is Completed****************]]>
+    </line>
+    <line>
+      <![CDATA[**************Started TestCase onTestSuccess Method********
+]]>
+    </line>
+    <line>
+      <![CDATA[ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png]]>
+    </line>
+    <line>
+      <![CDATA[ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png]]>
+    </line>
+    <line>
+      <![CDATA[ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png]]>
+    </line>
+    <line>
+      <![CDATA[**************Done with TestCase onTestSuccess Method********
+]]>
+    </line>
+    <line>
+      <![CDATA[**********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************]]>
+    </line>
+    <line>
+      <![CDATA[Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1]]>
+    </line>
+    <line>
+      <![CDATA[Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1]]>
+    </line>
+    <line>
+      <![CDATA[Starting Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1]]>
+    </line>
+    <line>
+      <![CDATA[Done Writing TestCase log into fileD:\Accolite-common-fw\ExtendAccoliteUIT\logs\TestCaseLogs\test1]]>
+    </line>
+  </reporter-output>
+  <suite name="Sample-Tests" duration-ms="372245" started-at="2017-06-22T10:56:22Z" finished-at="2017-06-22T11:02:34Z">
+    <groups>
+      <group name="TCID1">
+        <method signature="SampleUITests.test1(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@23223dd8]" name="test1" class="Tests.SampleUITests"/>
+        <method signature="SampleUITests.test1(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@49e4cb85]" name="test1" class="Tests.SampleUITests"/>
+      </group> <!-- TCID1 -->
+    </groups>
+    <test name="Navigate to Google Search Page-chrome" duration-ms="370516" started-at="2017-06-22T10:56:22Z" finished-at="2017-06-22T11:02:33Z">
+      <class name="Tests.SampleUITests">
+        <test-method status="PASS" signature="BeforeTest(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@49e4cb85]" name="BeforeTest" is-config="true" duration-ms="12" started-at="2017-06-22T16:26:22Z" finished-at="2017-06-22T16:26:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7cd57690]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[**********Test Case Execution Navigate to Google Search Page-chromeis Starting****************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="test1(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@49e4cb85]" name="test1" duration-ms="368610" started-at="2017-06-22T16:26:22Z" description="navigate to google.com" finished-at="2017-06-22T16:32:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7cd57690]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the Brwoser with chrome]]>
+            </line>
+            <line>
+              <![CDATA[Before navigating to: 'http://www.google.com']]>
+            </line>
+            <line>
+              <![CDATA[Navigated to:'http://www.google.com']]>
+            </line>
+            <line>
+              <![CDATA[**************Started TestCase onTestSuccess Method********
+]]>
+            </line>
+            <line>
+              <![CDATA[ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png]]>
+            </line>
+            <line>
+              <![CDATA[ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png]]>
+            </line>
+            <line>
+              <![CDATA[ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-chrome_chrome_Passed.png]]>
+            </line>
+            <line>
+              <![CDATA[**************Done with TestCase onTestSuccess Method********
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@49e4cb85]" name="afterTest" is-config="true" duration-ms="1132" started-at="2017-06-22T16:32:32Z" finished-at="2017-06-22T16:32:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7cd57690]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[**********Test Case Navigate to Google Search Page-chromeExecution is Completed****************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Tests.SampleUITests -->
+    </test> <!-- Navigate to Google Search Page-chrome -->
+    <test name="Navigate to Google Search Page-firefox" duration-ms="372245" started-at="2017-06-22T10:56:22Z" finished-at="2017-06-22T11:02:34Z">
+      <class name="Tests.SampleUITests">
+        <test-method status="PASS" signature="BeforeTest(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@23223dd8]" name="BeforeTest" is-config="true" duration-ms="12" started-at="2017-06-22T16:26:22Z" finished-at="2017-06-22T16:26:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1e1a41b7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[**********Test Case Execution Navigate to Google Search Page-firefoxis Starting****************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="test1(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@23223dd8]" name="test1" duration-ms="371622" started-at="2017-06-22T16:26:22Z" description="navigate to google.com" finished-at="2017-06-22T16:32:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1e1a41b7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the Brwoser with firefox]]>
+            </line>
+            <line>
+              <![CDATA[Before navigating to: 'http://www.google.com']]>
+            </line>
+            <line>
+              <![CDATA[Navigated to:'http://www.google.com']]>
+            </line>
+            <line>
+              <![CDATA[**************Started TestCase onTestSuccess Method********
+]]>
+            </line>
+            <line>
+              <![CDATA[ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png]]>
+            </line>
+            <line>
+              <![CDATA[ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png]]>
+            </line>
+            <line>
+              <![CDATA[ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page-firefox_firefox_Passed.png]]>
+            </line>
+            <line>
+              <![CDATA[**************Done with TestCase onTestSuccess Method********
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@23223dd8]" name="afterTest" is-config="true" duration-ms="363" started-at="2017-06-22T16:32:34Z" finished-at="2017-06-22T16:32:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1e1a41b7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[**********Test Case Navigate to Google Search Page-firefoxExecution is Completed****************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Tests.SampleUITests -->
+    </test> <!-- Navigate to Google Search Page-firefox -->
+  </suite> <!-- Sample-Tests -->
+</testng-results>

@@ -1,0 +1,6 @@
+smtphost=smtp.gmail.com
+fromAddress=santoshkumar.soma@accolitelabs.com
+toAddress=santoshkumar.soma@accolitelabs.com
+subject=Test Automation Report
+username=santoshkumar.soma@accolitelabs.com
+password=Sfqatest@123

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Billing Address-Tests" parallel="tests" thread-count="1" verbose="1">
+<listeners> 
+         <listener class-name="cs.framework.Listeners.TestCaseListener"/> 
+         <listener class-name="cs.framework.Listeners.TestMethodListener"/>
+    	 <listener class-name="cs.framework.Listeners.CustomReporter" />  
+ </listeners> 
+ 
+ <parameter name="browser" value="firefox"/>
+ 
+ <test verbose="2" name="Verify Billing Information Overlay once clicks on Procede to Checkout " annotations="JDK" enabled="true" preserve-order="true"> 
+     <groups><run><include name="TCID1"/></run></groups>
+    <classes>
+    	
+    	<class name="cs.easyl.billingoverlay.BillingOverlayPage_Tests"/>
+    </classes>
+ </test> 
+ 
+</suite> 

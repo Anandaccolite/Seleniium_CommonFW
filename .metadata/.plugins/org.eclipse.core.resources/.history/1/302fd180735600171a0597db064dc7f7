@@ -1,0 +1,14 @@
+package framework.common;
+
+import cs.framework.common.AriaUtilities;
+import cs.framework.common.BrowserUtilities;
+import cs.framework.common.CommonUtilties;
+import cs.framework.common.RestUtilities;
+
+public interface BaseTest {
+	public  CommonUtilties common_utilities=new CommonUtilties();
+	public  BrowserUtilities browser_utilities=new BrowserUtilities();
+	public  RestUtilities rest_utilities=new RestUtilities();
+    public	AriaUtilities aria_utilities = new AriaUtilities();
+}
+}

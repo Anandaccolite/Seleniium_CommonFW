@@ -1,0 +1,20 @@
+package Tests;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.ITestContext;
+import org.testng.annotations.BeforeTest;
+
+import framework.listeners.Logs;
+import framework.common.BaseTest;
+
+
+public class SampleUITests implements BaseTest{
+
+	
+	public WebDriver browser;
+	@BeforeTest(alwaysRun=true)
+	public void BeforeTest(ITestContext obj) throws Exception{
+		Logs.log("**********Test Case Execution "+obj.getCurrentXmlTest().getName()+"is Starting****************");
+		browser=browser_utilities.launchBrowser(obj);
+	}
+}

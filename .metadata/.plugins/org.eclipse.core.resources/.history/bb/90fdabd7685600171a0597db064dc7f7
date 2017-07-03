@@ -1,0 +1,16 @@
+package framework.listeners;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.events.WebDriverEventListener;
+
+public class WebEventListener implements WebDriverEventListener {
+	
+	public void beforeNavigateTo(String url, WebDriver driver) {
+		Logs.log("Before navigating to: '" + url + "'");
+	}
+	
+	public void afterNavigateTo(String url, WebDriver driver) {
+		Logs.log("Navigated to:'" + url + "'");
+	}
+
+}

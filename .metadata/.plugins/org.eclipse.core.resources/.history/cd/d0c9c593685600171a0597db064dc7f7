@@ -1,0 +1,7 @@
+package framework.listeners;
+
+import org.openqa.selenium.support.events.WebDriverEventListener;
+
+public class WebEventListener implements WebDriverEventListener {
+
+}

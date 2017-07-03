@@ -1,0 +1,4 @@
+smtphost=
+fromAddress=santoshkumar.soma@accolitelabs.com
+toAddress=santoshkumar.soma@accolitelabs.com
+subject=Test Automation Report

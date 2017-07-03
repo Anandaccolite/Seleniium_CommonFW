@@ -1,0 +1,14 @@
+<h2>Reporter output</h2><table><tr><td>**************Started TestCase OnStart Method********
+</td></tr>
+<tr><td>**************Done with TestCase OnStart Method********
+</td></tr>
+<tr><td>**********Test Case Execution Navigate to Google Search Pageis Starting****************</td></tr>
+<tr><td>**************Started TestCase onTestSuccess Method********
+</td></tr>
+<tr><td>ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Billing Address-Tests\Navigate to Google Search Page_FirefoxDriver: Firefox on XP (09f092d2-3840-40e2-9b03-4f0c82e2379a)_Passed.png</td></tr>
+<tr><td>ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Billing Address-Tests\Navigate to Google Search Page_FirefoxDriver: Firefox on XP (09f092d2-3840-40e2-9b03-4f0c82e2379a)_Passed.png</td></tr>
+<tr><td>ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Billing Address-Tests\Navigate to Google Search Page_FirefoxDriver: Firefox on XP (09f092d2-3840-40e2-9b03-4f0c82e2379a)_Passed.png</td></tr>
+<tr><td>**************Done with TestCase onTestSuccess Method********
+</td></tr>
+<tr><td>**********Test Case Navigate to Google Search PageExecution is Completed****************</td></tr>
+</table>

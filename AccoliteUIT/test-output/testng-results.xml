@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[**********Test Case Execution Default testis Starting****************]]>
+    </line>
+    <line>
+      <![CDATA[**********Test Case Default testExecution is Completed****************]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11746" started-at="2017-06-22T07:37:51Z" finished-at="2017-06-22T07:38:03Z">
+    <groups>
+      <group name="TCID1">
+        <method signature="SampleUITests.test1(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@6fffcba5]" name="test1" class="Tests.SampleUITests"/>
+      </group> <!-- TCID1 -->
+    </groups>
+    <test name="Default test" duration-ms="11746" started-at="2017-06-22T07:37:51Z" finished-at="2017-06-22T07:38:03Z">
+      <class name="Tests.SampleUITests">
+        <test-method status="PASS" signature="BeforeTest(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@6fffcba5]" name="BeforeTest" is-config="true" duration-ms="33" started-at="2017-06-22T13:07:51Z" finished-at="2017-06-22T13:07:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@9f70c54]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[**********Test Case Execution Default testis Starting****************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="test1(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@6fffcba5]" name="test1" duration-ms="11047" started-at="2017-06-22T13:07:51Z" description="navigate to google.com" finished-at="2017-06-22T13:08:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@9f70c54]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:Tests.SampleUITests@6fffcba5]" name="afterTest" is-config="true" duration-ms="652" started-at="2017-06-22T13:08:02Z" finished-at="2017-06-22T13:08:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@9f70c54]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[**********Test Case Default testExecution is Completed****************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Tests.SampleUITests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,7 @@
+package Tests;
+
+import cs.framework.common.BaseTest;
+
+public class SampleUITests implements BaseTest{
+
+}

@@ -1,0 +1,31 @@
+package framework.common;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.ITestContext;
+
+public class BrowserUtilities extends CommonUtilties {
+
+	
+	public WebDriver launchBrowser(ITestContext obj) throws Exception{
+		String browserType=null;
+		try{
+		  if(System.getProperty("browser")!=null)
+			  browserType=System.getProperty("browser").trim();
+		  else if(obj.getCurrentXmlTest().getSuite().getParameter("browser")!=null)
+			  browserType=obj.getCurrentXmlTest().getSuite().getParameter("browser");
+		  else
+			  browserType=this.getBrowser();
+		}catch(Exception e)
+		{
+			e.printStackTrace();
+			browserType="firefox";
+		}finally{/*
+			//browserType="firefox";
+		*/}
+	}
+
+	private String getBrowser() {
+		// TODO Auto-generated method stub
+		return this.getProperty("Browser").trim();
+	}
+}

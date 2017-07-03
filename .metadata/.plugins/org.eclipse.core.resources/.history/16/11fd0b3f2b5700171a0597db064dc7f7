@@ -1,0 +1,14 @@
+<h2>Reporter output</h2><table><tr><td>**************Started TestCase OnStart Method********
+</td></tr>
+<tr><td>**************Done with TestCase OnStart Method********
+</td></tr>
+<tr><td>**********Test Case Execution Navigate to Google Search Pageis Starting****************</td></tr>
+<tr><td>**************Started TestCase onTestSuccess Method********
+</td></tr>
+<tr><td>ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page_firefox_Passed.png</td></tr>
+<tr><td>ScreenShot Path******D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page_firefox_Passed.png</td></tr>
+<tr><td>ScreenShotPath****D:\Accolite-common-fw\ExtendAccoliteUIT\Screenshots\Sample-Tests\Navigate to Google Search Page_firefox_Passed.png</td></tr>
+<tr><td>**************Done with TestCase onTestSuccess Method********
+</td></tr>
+<tr><td>**********Test Case Navigate to Google Search PageExecution is Completed****************</td></tr>
+</table>

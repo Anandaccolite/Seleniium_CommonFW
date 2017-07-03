@@ -1,0 +1,12 @@
+package framework.common;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.ITestContext;
+
+public class BrowserUtilities extends CommonUtilties {
+
+	
+	public WebDriver launchBrowser(ITestContext obj) throws Exception{
+		
+	}
+}
